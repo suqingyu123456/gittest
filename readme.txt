@@ -1,2 +1,2 @@
-This is git file!
-author is me!
+Git is a distributed version control system.
+Git is free software.
